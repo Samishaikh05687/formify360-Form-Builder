@@ -15,7 +15,7 @@ import { Button } from "./ui/button";
 import { toast } from "./ui/use-toast";
 import Link from "next/link";
 import { BsArrowLeft, BsArrowRight } from "react-icons/bs";
-import Confetti from "react-confetti";
+import Confetti from 'react-confetti'
 
 function FormBuilder({ form }: { form: Form }) {
   const { setElements, setSelectedElement } = useDesigner();
