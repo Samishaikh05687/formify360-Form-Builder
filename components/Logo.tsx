@@ -5,7 +5,7 @@ function Logo() {
   return (
     <Link
       href={"/"}
-      className="font-bold text-3xl bg-gradient-to-r from-purple-900 to-purple-400 bg-clip-text text-transparent  hover:cursor-pointer"
+      className="font-bold text-3xl bg-gradient-to-b from-white to-neutral-700 bg-clip-text text-transparent  hover:cursor-pointer"
     >
       Formify360
     </Link>
@@ -13,3 +13,4 @@ function Logo() {
 }
 
 export default Logo;
+
