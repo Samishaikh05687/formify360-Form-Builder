@@ -70,6 +70,7 @@ export const InfiniteMovingCards = ({
     }
   }
   console.log(items)
+  console.log("this run on client side ");
   return (
     <div
       ref={containerRef}
