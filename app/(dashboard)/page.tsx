@@ -16,7 +16,7 @@ export default function Home() {
           </h1>
 
           <p className="text-neutral-500 max-w-[38rem] mx-auto my-2 text-l text-center relative z-10">
-            Unleash your creativity with Formify - Design stunning forms that captivate your audience and gather insights like never before. Say goodbye to dull surveys and hello to interactive, engaging experiences. With Formify's intuitive drag-and-drop interface, crafting visually appealing forms is a breeze.
+            Unleash your creativity with Formify - Design stunning forms that captivate your audience and gather insights like never before. Say goodbye to dull surveys and hello to interactive, engaging experiences. With Formify&apos;s intuitive drag-and-drop interface, crafting visually appealing forms is a breeze.
           </p>
           <div className="flex items-center justify-center flex-col mt-5">
             <Button
