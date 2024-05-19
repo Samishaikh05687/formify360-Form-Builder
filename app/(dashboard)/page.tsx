@@ -34,7 +34,7 @@ export default function Home() {
       <div className="mt-0 bg-[#0A0A0A]">
         <InfiniteMovingCards className="md:mt-0 w-full" items={clients} direction="right" speed="slow" />
       </div>
-      <div className="h-[45rem] w-full rounded-md bg-neutral-950 relative flex flex-col items-center justify-center antialiased mt-0 p-0">
+      <div className="h-[42rem] w-full rounded-md bg-neutral-950 relative flex flex-col items-center justify-center antialiased mt-0 p-0">
         <BackgroundBeams />
         <NoSSR />
       </div>
